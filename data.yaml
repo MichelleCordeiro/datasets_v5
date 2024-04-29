@@ -7,6 +7,6 @@ roboflow:
   url: https://universe.roboflow.com/letrascursivas/alphabet_card/dataset/1
   version: 1
   workspace: letrascursivas
-test: datasets/test/images
-train: datasets/train/images
-val: datasets/valid/images
+train: ../train/images
+val: ../valid/images
+test: ../test/images
