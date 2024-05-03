@@ -1,12 +1,13 @@
-names:
-- card
-nc: 1
-roboflow:
-  license: CC BY 4.0
-  project: alphabet_card
-  url: https://universe.roboflow.com/letrascursivas/alphabet_card/dataset/1
-  version: 1
-  workspace: letrascursivas
 train: ../train/images
 val: ../valid/images
 test: ../test/images
+
+nc: 1
+names: ['card']
+
+roboflow:
+  workspace: letrascursivas
+  project: alphabet_card
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/letrascursivas/alphabet_card/dataset/2
