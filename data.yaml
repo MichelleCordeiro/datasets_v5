@@ -8,6 +8,6 @@ names: ['card']
 roboflow:
   workspace: letrascursivas
   project: alphabet_card
-  version: 2
+  version: 3
   license: CC BY 4.0
-  url: https://universe.roboflow.com/letrascursivas/alphabet_card/dataset/2
+  url: https://universe.roboflow.com/letrascursivas/alphabet_card/dataset/3
